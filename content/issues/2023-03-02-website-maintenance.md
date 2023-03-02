@@ -2,7 +2,7 @@
 section: issue
 title: Website Maintenance
 date: 2023-03-02T09:54:17.513Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: true
