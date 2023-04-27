@@ -5,7 +5,7 @@ date: 2023-04-27T16:20:48.330Z
 resolved: false
 draft: false
 informational: false
-pin: false
+pin: true
 resolvedWhen: 2023-04-27T16:30:00.000Z
 affected:
   - Website
